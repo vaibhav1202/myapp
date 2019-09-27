@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.1a32cfb3.chunk.css",
+    "main.js": "/myapp/static/js/main.fb95f5e7.chunk.js",
+    "main.js.map": "/myapp/static/js/main.fb95f5e7.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.dc287fc7.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.dc287fc7.js.map",
+    "static/css/2.04aae6c4.chunk.css": "/myapp/static/css/2.04aae6c4.chunk.css",
+    "static/js/2.0ad5f710.chunk.js": "/myapp/static/js/2.0ad5f710.chunk.js",
+    "static/js/2.0ad5f710.chunk.js.map": "/myapp/static/js/2.0ad5f710.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.870e6031d7bbdb223669cda555be9060.js": "/myapp/precache-manifest.870e6031d7bbdb223669cda555be9060.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/2.04aae6c4.chunk.css.map": "/myapp/static/css/2.04aae6c4.chunk.css.map",
+    "static/css/main.1a32cfb3.chunk.css.map": "/myapp/static/css/main.1a32cfb3.chunk.css.map",
+    "static/media/myimgcircle.png": "/myapp/static/media/myimgcircle.c123ef6a.png",
+    "static/media/myphoto.jpg": "/myapp/static/media/myphoto.b7cc0ac6.jpg"
+  }
+}
