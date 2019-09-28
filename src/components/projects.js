@@ -60,7 +60,7 @@ class Projects extends Component {
         </Card>
         {/* Project 3 */}
         <Card shadow={5} style={{minWidth: '450',  margin:'auto'}}>
-          <CardTitle style={{color: 'black', height: '50px'}} >Other Machine Learning Notebooks</CardTitle>
+          <CardTitle style={{color: 'black', height: '50px'}} >Other ML Notebooks</CardTitle>
           <CardText>
           Some other jupyter Notebooks of Machine Learning.
             </CardText>
@@ -104,7 +104,7 @@ class Projects extends Component {
         </Card>
         {/* Project 3 */}
         <Card shadow={5} style={{minWidth: '450',  margin:'auto'}}>
-          <CardTitle style={{color: 'black', height: '50px'}} >Other Deep Learning Notebooks</CardTitle>
+          <CardTitle style={{color: 'black', height: '50px'}} >Other DL Notebooks</CardTitle>
           <CardText>
           Some other jupyter Notebooks of Deep Learning.
             </CardText>
